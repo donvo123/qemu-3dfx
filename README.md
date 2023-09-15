@@ -14,3 +14,7 @@ archive.org:
 mediafire.com:
 + Ubuntu 22.04: https://www.mediafire.com/file/8vayxdjh9yf2rtg
 + Windows 11: https://www.mediafire.com/file/99ltin8yeq9x7fq
+
+# Demos on Youtube
++ Ubuntu 22.04: N/A
++ Windows 11: https://youtu.be/HuP8OsStURQ
